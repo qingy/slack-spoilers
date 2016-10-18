@@ -7,6 +7,7 @@ app.set('port', (process.env.PORT || 5000));
 
 app.post('/spoiler', function (req, res) {
     var userName = req.body.user_name;
+    var userName = userName.toUpperCase();
     var spoilerText = req.body.text;
     var responseUrl = req.body.response_url;
 
