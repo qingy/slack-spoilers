@@ -1,5 +1,4 @@
 {
-	"fallback": "Someone just posted a spoiler!",
 	"name": "slack-spoilers",
 	"version": "1.0.0",
 	"description": "Slash command for hiding spoilers",
@@ -14,4 +13,8 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Daniel Spencer w/ edits by Qing Zhao",
+	"license": "ISC",
+    "attachments": {
+            "fallback": "Someone just posted a spoiler!"
+	}
 }
