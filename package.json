@@ -13,8 +13,5 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Daniel Spencer w/ edits by Qing Zhao",
-	"license": "ISC",
-    "attachments": [ {
-            "fallback": "Someone just posted a spoiler!"
-	} ]
+	"license": "ISC"
 }
