@@ -14,7 +14,7 @@
 	},
 	"author": "Daniel Spencer w/ edits by Qing Zhao",
 	"license": "ISC",
-    "attachments": {
+    "attachments": [ {
             "fallback": "Someone just posted a spoiler!"
-	}
+	} ]
 }
